@@ -11,4 +11,4 @@ height = int(input("피라미드 높이를 입력하세요: "))
 p = Pyramid(height)
 p.print_star_pyramid()
 
-#commit 
+#commit 진짜 수정 끝..?
